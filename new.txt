@@ -6,4 +6,12 @@ Yes I can see this.
 
 I think this is what we are doing
 
+<<<<<<< HEAD
 we are working too fastttt!!! Don't commit. 
+=======
+
+This is confusing at times.  But it is interesting.  I wonder what will 
+happen when we do this.
+>>>>>>> f210ccdfac5ed9655621432497fb3f6836eec15c
+
+this is a merged version.
